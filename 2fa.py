@@ -1,4 +1,3 @@
-import pyotp,requests,re,os,sys
 from bs4 import BeautifulSoup as bs
 from concurrent.futures import ThreadPoolExecutor as tdp
 os.system("clear")
