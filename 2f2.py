@@ -1,6 +1,6 @@
 from bs4 import BeautifulSoup as bs
 from concurrent.futures import ThreadPoolExecutor as tdp
-os.system("clear")
+
 n=0
 lim=0
 tf=0
